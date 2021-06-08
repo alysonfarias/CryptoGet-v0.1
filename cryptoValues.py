@@ -10,7 +10,7 @@ from datetime import datetime
 # You could see the api documentation on https://coinmarketcap.com/api/documentation/v1/
 
 # insert your apykey from CoinMarketCap [step 1]
-apyKey = ''
+apyKey = '0b6af46b-a6cc-4d71-808f-3aa94eeb05cf'
 myBTCBalance = 1  # insert your BTC value here
 
 headers = {
